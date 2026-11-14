@@ -1,7 +1,5 @@
 # Hi there, I'm LittleAngel4ever! 👼
 
-<br/>
-
 ## 🚀 About Me
 I’m **LittleAngel4ever** (also known as **Apostle Peter**), a software developer affiliated with **Oracle Corporation**, based in Austin, TX. I specialize in building intelligent and structured applications, ranging from financial mapping tools and AI/ML experiments to academic coursework and operating system concepts.
 
