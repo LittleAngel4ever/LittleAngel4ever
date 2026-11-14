@@ -1,7 +1,5 @@
 # Hi there, I'm LittleAngel4ever! 👼
 
-
-
 <br/>
 
 ## 🚀 About Me
